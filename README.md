@@ -1,2 +1,4 @@
 # learn_pyscript
-A repo for me to learn pyscript
+This is a repo for me to learn pyscript
+
+**you can check pyscript [here](https://pyscript.net/)**
